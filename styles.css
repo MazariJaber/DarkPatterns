@@ -1,7 +1,7 @@
 body {
     background-color: #FBE0C4;
     margin: 5%;
-   
+    font-family: 'Karla', sans-serif;
    }
 
 h1 {
@@ -22,3 +22,4 @@ h2{
     margin-right: auto;
     width: 50%;
   }
+
