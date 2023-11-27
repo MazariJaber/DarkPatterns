@@ -1,0 +1,24 @@
+body {
+    background-color: #FBE0C4;
+    margin: 5%;
+   
+   }
+
+h1 {
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.MoneyTree{
+    display: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
